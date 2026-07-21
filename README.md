@@ -99,12 +99,19 @@ http://localhost:8000
 
 ## Screenshots
 
-Add screenshots here as the project evolves:
-- Dashboard overview
-- Topology and route visualization
-- Analytics and request history view
-- Edge failover simulation
+## Screenshots
 
+### Analytics Dashboard
+
+![Analytics](assets/Analytics.png)
+
+### Cache Inspector
+
+![Cache](assets/Cache.png)
+
+### Request History
+
+![Requests](assets/Requests.png)
 ## Future Improvements
 
 - Add real container orchestration for multi-service deployment
